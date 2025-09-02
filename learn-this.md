@@ -9,8 +9,8 @@
 					- PostgreSQL
 						- MongoDB
 							- NoSQL
-- ��Få en djupare förståelse för programmering OBS(jag skrev inte alla dem här visual studio la in dem men dem lät väldigt intressanta) ��)
-	- Objektorienterad programmering (OOP) ��
+- Få en djupare förståelse för programmering OBS(jag skrev inte alla dem här visual studio la in dem men dem lät väldigt intressanta)
+	- Objektorienterad programmering (OOP)
 		- Designmönster
 			- SOLID-principer
 				- Testdriven utveckling (TDD)
