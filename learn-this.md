@@ -1,0 +1,46 @@
+﻿## 📚 Jag vill lära mig
+
+- 💻C# och GitHub
+	- Jag har alltid velat lära mig mer Azure 😎
+		- Även kunskap om visual studio
+		- Databaser
+			- SQL
+				- MySQL
+					- PostgreSQL
+						- MongoDB
+							- NoSQL
+- ��Få en djupare förståelse för programmering OBS(jag skrev inte alla dem här visual studio la in dem men dem lät väldigt intressanta) ��)
+	- Objektorienterad programmering (OOP) ��
+		- Designmönster
+			- SOLID-principer
+				- Testdriven utveckling (TDD)
+					- Enhetstester
+						- Integrationstester
+							- Systemtester
+								- Prestandatester
+									- Säkerhetstester
+										- Användbarhetstester
+											- Tillgänglighetstester
+												- Kodgranskning
+													- Parprogrammering
+														- Kontinuerlig integration (CI)
+															- Kontinuerlig leverans (CD)
+																- DevOps-principer
+																	- Infrastruktur som kod (IaC)
+																		- Containerisering (Docker, Kubernetes)
+																			- Mikrotjänster
+																				- Serverlös arkitektur
+																					- Molntjänster (AWS, Azure, Google Cloud)
+																						- API-design och utveckling (REST, GraphQL)
+																							- Webbutveckling (Frontend och Backend)
+																								- Mobilapputveckling (iOS, Android)
+																									- Spelutveckling (Unity, Unreal Engine)
+																										- Maskininlärning och AI
+																											- Dataanalys och visualisering
+																												- Big Data-teknologier (Hadoop, Spark)
+																													- Blockchain och kryptovalutor
+																														- Internet of Things (IoT)
+																															- Edge Computing
+																																- Kvantdatorer och kvantalgoritmer
+																																	- Etik inom teknik och AI
+																																		- Framtidens tekniktrender och innovationer
